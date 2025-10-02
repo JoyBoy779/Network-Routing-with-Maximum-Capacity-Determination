@@ -20,7 +20,7 @@ The solution is built upon a fundamental graph algorithm adapted for this specif
 
 ## 📁 Repository Contents
 
-* `a5.py`: Contains the main Python implementation, including the `Heap` class for the priority queue and the `findMaxCapacity` function.
+* `main.py`: Contains the main Python implementation, including the `Heap` class for the priority queue and the `findMaxCapacity` function.
 * `README.md`: This file.
 
 ## 🛠️ Usage and Functionality
@@ -43,7 +43,7 @@ The function returns a pair: `(C, route)`
 * `route`: A list of router indices representing the path that achieves the capacity $C$.
 
 ---
-## ✅ Assignment Test Cases (Examples)
+## Examples Test Cases
 
 The following test cases are taken directly from the assignment specification and demonstrate the required output format:
 
